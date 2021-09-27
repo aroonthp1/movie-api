@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641464206959",
+    "project_id": "ecom-4f528",
+    "storage_bucket": "ecom-4f528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641464206959:android:763fadcf52c1c68a5f6f9a",
+        "android_client_info": {
+          "package_name": "com.example.movieapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641464206959-uvj55v6is2dh5nhvjgubf4ckk4df8rfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHv7Zrm8LIx2kLZ5MJPkKzev05AgTDEKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641464206959-uvj55v6is2dh5nhvjgubf4ckk4df8rfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
